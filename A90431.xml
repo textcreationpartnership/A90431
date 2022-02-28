@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pennilesse parliament of threed-bare poets or, The merry fortune-teller, wherein all persons of the four severall complexions may finde their fortunes. Composed by Doctor Merry-man: not onely to purge melancholy: but also to procure tittering and laughing. Full of witty mirth, and delightfull recreation, for the content of the reader.</title>
+            <author>Doctor Merry-man.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90431</idno>
+            <idno type="STC">Wing P1398</idno>
+            <idno type="STC">Thomason E1379_2</idno>
+            <idno type="STC">ESTC R209360</idno>
+            <idno type="EEBO-CITATION">99868241</idno>
+            <idno type="PROQUEST">99868241</idno>
+            <idno type="VID">169889</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169889)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 180:E1379[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pennilesse parliament of threed-bare poets or, The merry fortune-teller, wherein all persons of the four severall complexions may finde their fortunes. Composed by Doctor Merry-man: not onely to purge melancholy: but also to procure tittering and laughing. Full of witty mirth, and delightfull recreation, for the content of the reader.</title>
+                  <author>Doctor Merry-man.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright, at the Kings Head in the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>With title page woodcut.</note>
+                  <note>Signatures: A.</note>
+                  <note>Text in black letter.</note>
+                  <note>Annotation on Thomason copy: "7tbr 20 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169889:1" rendition="simple:additions"/>
+            <p>The pennileſſe PARLIAMENT of <hi>Threed-bare Poets:</hi> OR, <hi>The merry Fortune-teller,</hi> Wherein all perſons of the four ſeverall Com<g ref="char:EOLhyphen"/>plexions may finde their FORTVNES.</p>
+            <p>COMPOSED <hi>By Doctor Merry-man:</hi> Not onely to purge Melancholy: but alſo to procure Tittering and Laughing.</p>
+            <p>Full of witty mirth, and delightfull recreation, for the content of the Reader.</p>
+            <figure>
+               <figDesc>depiction of Dr. Merry-man</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> printed for <hi>John Wright,</hi> a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Kings Head in the Old Bayley, 1649. <add>
+                  <abbr>7<hi rend="sup">ber</hi>
+                  </abbr> 20 1649</add> 
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169889:2"/>
+            <pb facs="tcp:169889:2"/>
+            <head>Here beginneth the pennileſſe Parliament of Threed-bare Poets.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt of all, for the increaſe of every foole in his humour, we thinke it neceſſary and convenient that all ſuch as doe buy this Booke, and laugh not at it before they have read it over, ſhall be condemned of melancholy, and be adjudged to walke over Moore-fields twice a weeke in a foule ſhirt, and a paire of bootes, but no ſtockings at all on.</p>
+            <p>It is alſo agreed upon, that long bearded men ſhall ſeldome prove the wiſeſt, and that a nig<g ref="char:EOLhyphen"/>gards purſe ſhall ſcarce bequeath his Maſter a good dinner: and becauſe water is like to prove ſo weake an Element in the world, that men and women will want teares to bewaile their ſins; we charge and command all Gardiners to ſow more ſtore of Onions, for feare widdows ſhould want moyſture to bewaile their Hus<g ref="char:EOLhyphen"/>bands funerals.</p>
+            <p>In like manner we thinke it ſit that Red<g ref="char:EOLhyphen"/>wine ſhould be drunk with Oyſters, and that ſome maidens ſhal bluſh more for ſhame then for ſhamefaſtneſſe: but men muſt have care, leſt converſing too much with red Petticoats, they baniſh the haire from their heads, and by that meanes make the poore Barbers beggers for want of worke.</p>
+            <p>
+               <pb facs="tcp:169889:3"/>
+Furthermore, it is lawfull for thoſe women, that every morning take a pinte of Muskedine with egges, to chide as well as they that drink ſmall beere all the winter: and thoſe that clip that they ſhould not clip, ſhall ſhave a horſe-night-clap for their labour.</p>
+            <p>Eentiemen that ſell land for Paper, ſhall buy penury with repentance: and thoſe that have moſt gold, ſhall have leaſt grace: ſome that meane well, ſhall fare worſe; and he that hath no credit, ſhall have leſſe e commodity.</p>
+            <p>It is alſo ordered and agreed upon, that ſuch as are cholericke, ſhall never want woe and ſor<g ref="char:EOLhyphen"/>row; and they that lacke money, may faſt upon Fridayes by the Statute: and it ſhall be law<g ref="char:EOLhyphen"/>full for them that want ſhooes, to weare boots all the yeare: and he that hath never a cloake, may without offence, put on his beſt gowne at Mid-ſummer, witneſſe old <hi>Prime</hi> the keeper of <hi>Bedlem</hi> Dicinghouſe.</p>
+            <p>Furthermore we thinke it neceſſary, and law<g ref="char:EOLhyphen"/>full, for the husband and wife to fall at ſquare for ſuperiority, in ſuch ſort as the wife ſhall ſit playing above in the Camber, while the hus<g ref="char:EOLhyphen"/>band ſtands panting below in the Kitching.</p>
+            <p>Likewiſe we marke all Brokers to be knaves by letters pattents, and Vſurers for five marks a peece ſhall lawfully be buried in the Chancell, though they have bequeatheed their ſoules and bodies to the Devill in hell.</p>
+            <p>In like manner it is thought good that it ſhall be lawfull for Muskedines in Vinteners cellers, to indite their Maſters of commixtion, and Sargeants ſhall be contented to arreſt any
+<pb facs="tcp:169889:3"/>man for his fees: Ale-wives ſhal ſel fleſh on Fri<g ref="char:EOLhyphen"/>dayes without licence, and ſuch as ſell Béere in halfe penny pots, ſhall utter Bread and Chéeſe for money throughout the whole yeare: and thoſe that are paſt honeſty and ſhame, ſhall ſmile at ſinne: and they that care not for God, prefer their money before any good conſcience.</p>
+            <p>Furthermore it ſhall bee lawfull for Foot<g ref="char:EOLhyphen"/>ſtooles (by the helpe of womens hands) to flye about without wings, and poore men ſhall bee accounted knaves without occaſions: and thoſe that flatter leaſt, ſhall ſpeed worſt: and Pigges by the ſtatute ſhall dance the Anticks with bels about their necks, to the wonder and amaze<g ref="char:EOLhyphen"/>men of all Swineherds.</p>
+            <p>In like manner it is convenient that many men ſhall weare hoads that have little learning: and ſome ſurfeit ſo much upon wit, and ſtrive ſo long againſt the ſtream, as at laſt their necks ſhall faile them: ſome ſhall build faire houſes by brides, and gather much wealth by conten<g ref="char:EOLhyphen"/>tion, and before they be aware heap up riches for another, and wretchedneſſe for themſelves.</p>
+            <p>Furthermore it ſhall be eſtabliſhed, for the benefit of increaſe, that ſome ſhall have a Lim<g ref="char:EOLhyphen"/>pany in their bellies, which will coſt them a Child bearing; and though the Father beare all the charges, it ſhall be a wiſe Childe that ſhall know his own Father.</p>
+            <p>It ſhall be lawfull for ſome to have the palſie in their teeth, in ſuch ſort, as they ſhall eate more then ever they will be able to pay for.</p>
+            <p>Some ſhall have ſuch a Megram in their eyes, as they ſhall hardly know another mans wife from their own.</p>
+            <p>
+               <pb facs="tcp:169889:4"/>
+Some ſhall have ſuch a ſtopping in their hearts, as they ſhall be utterly obſtinate to re<g ref="char:EOLhyphen"/>ceive grace.</p>
+            <p>Some ſort of people ſhall have ſuch a buzzing in their eares, as they ſhall be enemies to good counſell.</p>
+            <p>Some ſuch there be, that have a ſent or ſmell in their noſes, as no feaſt ſhall eſcape without their companies: and ſome ſhall be ſo needy, as neither young Heires ſhall get their owne, nor poore Ophants their patrimony.</p>
+            <p>Alſo, it is enacted and decreed, that ſome ſhall be ſo humorous in their walkes, as they cannot ſtep one foot from a foole.</p>
+            <p>Some ſo diſguiſed in purſe, as they count it fatall to have one penny to buy their dinners on Sundayes: ſome ſo burdened in conſcience, as they count wrongfull dealing the beſt badge of their occupation.</p>
+            <p>But amongſt other Lawes and Statutes by us here eſtabliſhed we thinke it moſt neceſſary and convenient that poulterers ſhall kill more innocent Poultry by cuſtome, then their wives and maides can ſell without good conſcience.</p>
+            <p>Alſo it is ordered and agreed upon, that Ba<g ref="char:EOLhyphen"/>kers, Woodmongers, Butchers, Brewers, ſhall fall to a mighty conſpiracy, ſo that no man ſhall either have bread, fire, meate or drinke, with<g ref="char:EOLhyphen"/>out credit or ready money.</p>
+            <p>Sycophants by the Statute ſhall have great gifts, and good and godly labours ſhall ſcarce be worth thanks: it is alſo thought neceſſary, that maides about mid-night ſhall ſee won<g ref="char:EOLhyphen"/>drous viſions, to the great heart-grief of their mothers.</p>
+            <p>
+               <pb facs="tcp:169889:4"/>
+Furthermore it is marked and ſet downe, that if Lawyers pleade poore mens cauſes without money, Weſtminſter hall ſhall grow out of cuſtome, to the great impoveriſhing of all Nim<g ref="char:EOLhyphen"/>mers, Lifters, and Cutpurſes.</p>
+            <p>Thoſe that ſing baſes, ſhall love good drinke by authority: and Trumpeters that ſound Treble, ſhall ſtarve by cuſtome.</p>
+            <p>Women that ware long Gownes may law<g ref="char:EOLhyphen"/>fully raiſe duſt in March: and they that keepe a temperate diet, ſhall never dye on ſurfets.</p>
+            <p>In like manner it ſhall be lawfull for Say<g ref="char:EOLhyphen"/>lers and Souldiers, to ſpend at their pleaſures what they can get by their Sword: and if the Treaſurer or purſer of the ſhip pay them any money beyond count and reckoning, if they build not an Hoſpitall therewith, they may be<g ref="char:EOLhyphen"/>ſtow it on apparell by the Statute.</p>
+            <p>It is furthermore eſtabliſhed and agreed up<g ref="char:EOLhyphen"/>on, that they that drinke too much Spaniſh Sack<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſhall about Iuly be ſerved with a <hi>Fierie Facies:</hi> but Oh you Ale-knights, you that de<g ref="char:EOLhyphen"/>vour the marrow of the Mault, and drinke whole Ale tubs in conſumptions; and ſuch that uſe to ſing Queen <hi>Dido</hi> over a Cup, and tell ſtrange newes over an Ale-pot, how unfor<g ref="char:EOLhyphen"/>tunate are you! who ſhall piſſe out that which you have ſwallowed ſo ſweetly: you are under the law, and ſhall be awarded with this puniſh<g ref="char:EOLhyphen"/>ment, that the rot ſhall infect your purſes, and eate out the bottomes ere you be aware.</p>
+            <p>It is alſo agreed upon, and thought neceſſary, that ſome Womens lippes ſhall ſwell ſo big, as they ſhall long to kiſſe other men beſide their
+<pb facs="tcp:169889:5"/>husbands: others cheekes ſhall be ſo monſtrous out of frame, as they cannot ſpeake in a juſt cauſe without large fees: ſome with long tongues ſhall tell all things which they heare: ſome with no braines ſhall meddle much, and know little: and thoſe that have no feet, may by the ſtatute go on crutebes.</p>
+            <p>But now touching the benefit of private houſes, by our rare and requiſite Iudgement we thinke it very commodious, that thoſe married men which are of the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eakeſt wit and worſe courage, ſhould provide themſelves of good wea<g ref="char:EOLhyphen"/>p<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s to defend themſelves from aſſaults which ſhal aſſaile them about midnight.</p>
+            <p>And it ſhal be lawfull for all wives to have a maſculine courage, in ſuch ſort, that they who had their wils to this houre, ſhall have the ma<g ref="char:EOLhyphen"/>ſtery all the yeare after; and thoſe husbands which doe not valiantly reſiſt them, ſhall be a<g ref="char:EOLhyphen"/>warded to pay a ſheeps head to their next neigh<g ref="char:EOLhyphen"/>bour, in penance for their f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly.</p>
+            <p>Alſo it i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> further eſtabliſhed and agreed upon, that Eſſex Calves ſhall indite Butchers knives of wilfu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l murder. and wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſoever wil prove a partiall Iu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yman in this caſe, ſhall have a hot ſheepes skin for his labour.</p>
+            <p>Bow bel in Cheapſide, if it breake not, ſhall be warranted by letters pattents to ring well: and if the Conduit heads want no water, the Tankerd-bearer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall have one cuſtard more to their ſolemne dinner, then their uſual cu<g ref="char:EOLhyphen"/>ſtome is to have.</p>
+            <p>Moreover it is thought good, that it ſhal be lawfull for all tripe wives to be exquiſite phy<g ref="char:EOLhyphen"/>ſitians,
+<pb facs="tcp:169889:5"/>for in one Offall they ſhall finde more Simp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, then ever <hi>Galen</hi> gathered, ſince he was firſt borne,</p>
+            <p>Beſides that, if Dancers keepe not tide and time in their meaſures, they ſhall forfeit a fat gooſe to their teachers for their ſlender judge<g ref="char:EOLhyphen"/>ment.</p>
+            <p>In like manner we thinke it neceſſary and convenient, that there ſhall be great noyſe of warres in Taver<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and wine ſhall make ſome ſo ventrous, as they will deſtroy <hi>Tyrone</hi> and all his powder at one draught; alſo we thinke it meete, that there be craft in all occupations; and thoſe that are penitent in this world, ſhall have co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fort in a better.</p>
+            <p>Alſo ſilke-weavers, by the ſtatute ſhall pro<g ref="char:EOLhyphen"/>ſper well, if they waſh their hands cleane on Faſting dayes: for otherwiſe in ſoyling their worke, they ſhall looſe their worke-maſters: Dawes by authority ſhall leave building in Stéeples, and dwell in Cities: and ſuch as are cunning in muſicke, ſhall know a Crotchet from a Quaver: but let ſuch men as inſtruct youth, be very circumſpect, for if they learne more then their Maſters can teach them, they ſhall forfeit their wits to thoſe that bring them up.</p>
+            <p>Furthermore we thinke it moſt neceſſary and convenient, that the generation of <hi>Judas</hi> ſhould walk about the world in theſe our latter daies, and ſell his neighbour for commodity to any man: but the Vſurers ſhall be otherwiſe diſ<g ref="char:EOLhyphen"/>poſed; for having mouthly taken but a penny in the Shilling, ever ſince they began firſt their occupation, ſhall now with a good conſcience
+<pb facs="tcp:169889:6"/>venter upon three pence with the advantage: beſides, many men ſhall prove themſelves ap<g ref="char:EOLhyphen"/>parantly knaviſh, and yet in their owne opini<g ref="char:EOLhyphen"/>ons will not be ſo: and many women ſhall im<g ref="char:EOLhyphen"/>agine that there are none fairer then them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>Moreover, for the further increaſe of foo<g ref="char:EOLhyphen"/>liſh humors, we doe eſtabliſh and ſet down, that fantaſticke deuiſes ſhall prove moſt excellent, and ſome ſhall ſo long deviſe for other men, that they will become barren themſelves: ſome ſhall deviſe novelties to their owne ſhames: and ſome ſnares to intrap themſelves within.</p>
+            <p>In like manner we thinke it moſt neceſſary that thoſe that be Fortune tellers, ſhall ſhut a knave in a circle, and looking obout for the Devill, ſhall finde him lockt in their owne boſomes: Acheiſts by the law, ſhall be as odious as they are careleſſe: and thoſe that depend al<g ref="char:EOLhyphen"/>together upon deſtiny, and not upon God, may chance looke through a narrow lettice at Foot<g ref="char:EOLhyphen"/>mans Inne.</p>
+            <p>But my deare friends the Groeers are plen<g ref="char:EOLhyphen"/>tifully bleſſed, for their Figges and Reyſons may allure faire Laſſes by authority: yea, ma<g ref="char:EOLhyphen"/>ny men by the ſtatute ſhall be ſo kind-hearted, that a kiſſe and an Apple, and a pint of wine, ſhal ſerve to make them Innocents.</p>
+            <p>And we think it conventent that ſome ſhall take their neighbours bed for their owne: ſome the ſervant for the Maſter: and (if Candles could tel tales) ſome wil thinke a familiar for a flea.</p>
+            <p>And we thinke it meet that there ſhould be
+<pb facs="tcp:169889:6"/>many Fowlers, who inſtead of Larkes ſhall catch Lobcockes: and many for want of wit ſhall ſel their Free-hold for Tobacco-pipes, and red Petricoates.</p>
+            <p>Likewiſe we thinke it convenient that there ſhould be many takers: for ſome would be ta<g ref="char:EOLhyphen"/>ken for wiſe men, who indeed are very fooles: for ſome will take crackt angels of poore dev<g ref="char:EOLhyphen"/>rors, and a quart of Malmene when they can<g ref="char:EOLhyphen"/>not get a pottle.</p>
+            <p>But ſtay a while, whither are we carried: leaving the greateſt lawes unpuniſhed, and eſtabliſhing the leſſe? Therefore we enact and ordaine as a neceſſary Statute, that there ſhal great contention fall between Souldiers and Archers; and if the fray be not decided at at a pot of Ale, and a black Pudding, great blood<g ref="char:EOLhyphen"/>ſhed is like to enſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e.</p>
+            <p>But O gentle fellow Souldiers, then leave your controveriies if you love a woman, for I will prove it, that a Mince pie is better then a Muſket, and he that dare gaine-ſay me, let him meete me <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the dagger in Cheap, with a caſe of pewter ſpoones, and I will anſwer it: and if I prove not a Mince pie the better weapon, let me dine twice a weeke at Duke <hi>Humphries</hi> table.</p>
+            <p>It is further more eſtabliſhed, that the foure knaves at the Cardes ſhall ſuddenly leap from out the bunch, and deſperately pranke about the new Play-houſe, to ſéeke out their old maſter Captaine Crop-eare.</p>
+            <p>Alſo it is thought meet, that ſome men (in theſe dayes) all be politick beyond reaſon, and
+<pb facs="tcp:169889:7"/>write more in one line, then they can prove in an age if all be lawfull for ſome to ſtudy which way they may wa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e to get them a ſtomacke to their meate, whilſt others are as carefull to get meat to put in their bellies: likewiſe there ſhall bee great perſecution in the Common wealth of Kitching fees, ſo that ſome deſperate woman ſhall boyle, try and ſeeth poore Tallow, to the generall commodity of all the whole company of Tallow-chandlers.</p>
+            <p>Alas, alas, how are we troubled to thinke on theſe dangerous times? for Taylors, by act of Parliament may lawfully invent new faſhi<g ref="char:EOLhyphen"/>ons: and he that takes Iriſh <hi>Aqua-vitae</hi> by the pinte, may by the law ſtumble without of<g ref="char:EOLhyphen"/>fence, and breake his face.</p>
+            <p>Many men ſhall be ſo venterouſly given, as they ſhall goe into Petticote-lane, and yet come out againe as honeſtly as they went firſt in.</p>
+            <p>In like manner it ſhall be lawfull for Tems water to clenſe as much as ever it did in rimes paſt: and if the Brewers of <hi>London</hi> buy ſtore of good Malt, poore barge-men at Queen-hive ſhall have a whole quart for a penny: Saint Thomas Onions ſhall be ſold by the rope at Billinſgate by the ſtatue: and Sempſters in the exchange ſhall become ſo conſcionable, that a man without offence, may buy a falling band for twelve pence</p>
+            <p>It ſhall be lawfull for Smiths to love good Ale: and if it be poſſible to have a froſt of thrée weekes long in Iuly, men ſhall not be afraid of a good fire at Mid-ſummer.</p>
+            <p>Alſo Porters Baskets ſhall have authority
+<pb facs="tcp:169889:7"/>to hold more then they can honeſtly carry away: and ſuch a drought ſhall come among Cannes at Bartholmew faire in Smith-field, that they ſhall never continue long filled.</p>
+            <p>And Millers by cuſtome ſhall have ſmall mindes to morning Prayer (if the wind ſerve them) in any corner on Sundayes: Thoſe that goe to the warres and get nothing, may come home poore by authority: and thoſe that play faſt and looſe with womens Apron-ſtrings, may cha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce make a journey for a Wincheſter Pige<g ref="char:EOLhyphen"/>on: for prevention thereof, drinke every mor<g ref="char:EOLhyphen"/>ning a draught of <hi>Nolime tangere,</hi> and by that meanes thou ſhalt be ſure to eſcape Phiſitians purgatory.</p>
+            <p>But amongſt all other decrees and ſtatutes by us here ſet downe, we ordaine and command, that three things (if they be not parted) ever to continue in perpetuall amity; that is, a Louſe in an old Doubiet, a painted Cloath in a painters ſtop, and a foole and his bable.</p>
+            <p>Furthermore, it ſhall be lawfull for Bakers to thrive by two things: that is, Scores well paid, and Millers that are honeſt.</p>
+            <p>Phyſitians by other mens harmes, &amp; Church<g ref="char:EOLhyphen"/>men and Church yards by often Burials.</p>
+            <p>Alſo we thinke it neceſſary for the Common<g ref="char:EOLhyphen"/>wealth, that a Sammon ſhall be better ſold in fiſhſtreet, then the Beere ſhall be ſold at Bil<g ref="char:EOLhyphen"/>linſgate.</p>
+            <p>And hearts-eaſe amongſt the company of Hearb-wives, ſhall be worth-as much money as they can get for it.</p>
+            <p>And ſuch as are inclined to the Dropſie, may
+<pb facs="tcp:169889:8"/>be lawfully cured, if the Phyſitians know how.</p>
+            <p>Alſo wee ordaine and appoint, that (if there be no great ſtore of Tempeſts) two Halfe-pen<g ref="char:EOLhyphen"/>ny loaves ſhall be ſold for a penny in white Chappel.</p>
+            <p>O what a deteſtable trouble ſhall be among women about foureſcore and ten yeares old, for ſuch as have more Teeth about them then they can well uſe, ſhall dye for age, if they live not by miracle.</p>
+            <p>Moreover, we thinke it neceſſary, that thoſe that have two eyes in their head. ſhall ſome<g ref="char:EOLhyphen"/>times ſtumble: and they that can neither write nor read, may as boldly forſweare themſelves, as they that can.</p>
+            <p>And it ſhall be lawfull for Almanacke makers, to tell more lies then true tales.</p>
+            <p>And they that goe to Sea without viduals, may ſuffer penury by the ſtatute.</p>
+            <p>In like manner it ſhall be lawfull for any man to carry about him more gold then Iron, if be can get it.</p>
+            <p>But they that are given to ſullen complexion, if they be Females, muſt be more circumſpect: for if they repent their hidden ſinnes too much, they may chance catch Heaven for their labour.</p>
+            <p>Therefore let maidens take heed how they fall on their backes, leaſt they catch a forty weekes favour.</p>
+            <p>And he that hath once married a ſhrew, and by good chance bury her, beware how he come into the ſt<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s againe.</p>
+            <p>Further, it ſhall be lawfull for thoſe that be
+<pb facs="tcp:169889:8"/>Rich, to have many friends: And they that be Poore, may by authority keepe money, if they can get it honeſtly.</p>
+            <p>Alſo we command and charge all ſuch as have no conſcience, to doe their worſt, leaſt they dye in the Divels debt: As for the reſt, they that have have more money then they neede, may helpe their poore Neighbours, if they will.</p>
+            <p>In like manner, it ſhal be lawful for ſuch as are ſubject to hot Rheumes, to drinke cold drinke: And thoſe that have a minde to enrich Phyſitians, to be never without diſeaſes.</p>
+            <p>Alſo Souldiers that have no meanes to thrive by plaine dealing, may by the ſtatute ſwallow downe an ounce of the ſirrop of ſubtility every morning: And if they cannot thrive that wayes, we thinke it neceſſary, that foure times in the yeare they goe a fiſhing on Salisbury plaine.</p>
+            <p>But as for you deare friends and ſchollars, thus much we favour you; for you ſhal dine up<g ref="char:EOLhyphen"/>on wit by authority: and if you pay your hoſteſſe wel, it is no matter though you ſcore it up til it come to a good round ſumme.</p>
+            <p>Such as are ſicke in the ſpring, may take Phyſick by the Statute; and thoſe that are cold may weare cloathes without offence.</p>
+            <p>Further, it ſhal be lawful for ſome to bee leane, becauſe they cannot be fat.</p>
+            <p>Some by the ſtatute ſhal love Beefe paſſing wel, becauſe they can come by no better meate: and otherſome ſimper it with an egge at dinner, that dare manfully ſet upon a ſhoulder of Veale in the afternoone.</p>
+            <p>
+               <pb facs="tcp:169889:9"/>
+Some ſhal be ſad when they want money: and in love with Widdowes rather for their wealth, then their honeſties.</p>
+            <p>It is alſo thought neceſſary, that ſome ſhall ſuſpect their wives at home, becauſe they them<g ref="char:EOLhyphen"/>ſelves play falſe abroad.</p>
+            <p>And ſome love Bowling-Allies better then a Sermon.</p>
+            <p>Furthermore, it ſhall be lawfull for him that marries without Money, to finde foure bare legs in his Bed: And he that is too prodigal in ſpending, ſhal dye a begger by the ſtatute.</p>
+            <p>In like manner, we thinke it neceſſary, that he that is plagued with a curſt wife, to have his pate broke quarterly, as he payes his rent.</p>
+            <p>Likewiſe, he that delights in ſustility, may play the knave by cuſtome: and he that hath his complexion and courage ſpent, may eate Mut<g ref="char:EOLhyphen"/>on on faſting dayes by the Law.</p>
+            <p>And to conclude, ſince there are ten Precepts to be obſerved in the Art of Scowlding, wee humbly take our leave of <hi>Duke Humphries</hi> Or<g ref="char:EOLhyphen"/>dinary, and betake us to the Chappel of <hi>Ill Counſell;</hi> where a quart or two of fine <hi>Trini<g ref="char:EOLhyphen"/>dado,</hi> ſhall arme us againſt the Gun-ſhot of Longue-mettle, and keepe us from the aſ<g ref="char:EOLhyphen"/>ſaults of Sir <hi>John Find fault. Vale</hi> my deare Friends, till my next returne.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
